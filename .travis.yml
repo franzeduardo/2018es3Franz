@@ -6,7 +6,7 @@ jdk:
 os:
    - linux
 
-before_script
+before_script:
    - cd helloworld
 
 script:
